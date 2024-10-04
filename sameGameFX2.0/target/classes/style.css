@@ -1,0 +1,29 @@
+.root{
+-fx-background-color: #000;
+}
+
+.labelWhite{
+-fx-text-fill: #fff;
+-fx-font-family: 'Avenir Next';
+-fx-font-size: 20;
+}
+
+.end{
+-fx-font-family: 'Avenir Next';
+-fx-font-size: 30;
+-fx-text-fill: #fff;
+}
+
+.underBoard{
+ -fx-background-color: #011341;
+ -fx-border-style: solid ;
+ -fx-border-width: 5 ;
+ -fx-border-color: #6b6b6b;
+}
+
+.optionBtn{
+-fx-background-color: #ff003b;
+-fx-border-color: #7502a2;
+-fx-text-fill: WHITE;
+-fx-font-size: 15px;
+}
